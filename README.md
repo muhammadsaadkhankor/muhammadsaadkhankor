@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Saad
 
-🎓 AI Engineer & Researcher at MBZUAI | 👨‍🔬 Vision, NLP, Metaverse | 🔬 7+ Publications | 🚀 Building the Future of Avatars
+🎓 AI Engineer & Researcher at MBZUAI | 👨‍🔬 Vision, NLP, Metaverse | 🚀 Building the Future of Avatars
 
 ---
 
@@ -20,14 +20,6 @@
   - 🤖 Fine-tuned LLaMA-based teaching assistant
 - 🎭 **dTalk System**: AI-powered visual avatars with responsive gestures and animations.
 - 🔍 **Violence Detection @ TII**: Real-time surveillance system deployed on edge devices.
-
----
-
-### 📌 Featured Publications:
-- **Multimodal Interaction with Digital Twins** — *ACMMM 2025 (Submitted)*
-- **CP-Diffusion: Prompt-based Diffusion for Video Gen** — *ACM TOMM 2025 (Submitted)*
-- **All Languages Matter** — *CVPR 2025 (Accepted)*
-- Full list on [Google Scholar](https://scholar.google.com/citations?user=egchmHYAAAAJ&hl=en)
 
 ---
 
