@@ -5,9 +5,11 @@
 ---
 
 🧠 I specialize in:
-- AI-powered avatars for education & interaction
-- Digital twins in immersive environments
-- RAG pipelines & multimodal LLM integration
+- 🔍 **Computer Vision (CV)**: Vision Transformers (ViT), YOLOv5, Siamese Networks, CNN-RNN models, Jetson Nano edge AI
+- 🗣️ **Natural Language Processing (NLP)**: LLMs, RAG pipelines, prompt engineering, multilingual reasoning (100+ languages)
+- 🧍‍♂️ **Multimodal AI Systems**: Full-body avatars, facial animation, lip-syncing, Mixamo + Three.js integration
+- 🪐 **Immersive & Metaverse Technologies**: Digital twins, interactive avatars, smart city simulations
+- ⚙️ **Deployment & MLOps**: Docker, REST APIs, optimization for real-time and edge environments
 
 ---
 
