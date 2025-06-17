@@ -1,19 +1,49 @@
 # Hi 👋, I'm Muhammad Saad
 
-A passionate AI, Computer Vision, and immersive technologies enthusiast. I live and breathe in the Metaverse 🪐!
+🎓 AI Engineer & Researcher at MBZUAI | 👨‍🔬 Vision, NLP, Metaverse | 🔬 7+ Publications | 🚀 Building the Future of Avatars
 
-- 🥽 I’ve been **Developing** 🔧 **ZapAura**, a Mozilla Hubs-based platform where avatars walk, talk, and teach! 🚀 With full-body avatars, real-time lip-syncing, and a super-smart AI teaching assistant powered by a custom LLaMA model 🦙, we’re constantly adding cool features, including visual avatars that respond with interactive animations. Ready for the next level? 🌐
-- 🌱 I’m always **learning** new tricks to make avatars even cooler—currently working on multimedia-based avatar assistant development! 🎨
-- 💼 Curious about my other projects? Check them out here: [GitHub](https://github.com/muhammadsaadkhankori) 🖥️
-- 🤝 Don’t be shy, let’s connect: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 🤖
-- 📧 Need to reach me? Drop me a line here: [muhammadsaadicup@gmail.com] 💌
+---
 
-### 🚀 Languages and Tools I Jam With:
+🧠 I specialize in:
+- AI-powered avatars for education & interaction
+- Digital twins in immersive environments
+- RAG pipelines & multimodal LLM integration
+
+---
+
+### 👨‍💻 What I'm Working On:
+- 🪐 **ZapAura**: A Mozilla Hubs-based immersive learning platform with:
+  - 🗣️ Real-time voice-to-text AI interaction
+  - 🧍 Full-body avatars & facial animations (Mixamo + Three.js)
+  - 🤖 Fine-tuned LLaMA-based teaching assistant
+- 🎭 **dTalk System**: AI-powered visual avatars with responsive gestures and animations.
+- 🔍 **Violence Detection @ TII**: Jetson Nano edge deployment with ViT/LSTM/GRU models.
+
+---
+
+### 📌 Featured Publications:
+- **Multimodal Interaction with Digital Twins** — *ACMMM 2025 (Submitted)*
+- **CP-Diffusion: Prompt-based Diffusion for Video Gen** — *ACM TOMM 2025 (Submitted)*
+- **All Languages Matter** — *CVPR 2025 (Accepted)*
+- Full list on [Google Scholar](https://scholar.google.com/citations?user=egchmHYAAAAJ&hl=en)
+
+---
+
+### 🛠️ Languages & Tools I Jam With:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,github,docker&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,docker,git,threejs&theme=dark" />
 </p>
 
 ---
 
+### 🌍 Let’s Connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-b73ba2232/)
+- 👨‍🔬 [Google Scholar](https://scholar.google.com/citations?user=egchmHYAAAAJ&hl=en)
+- 💌 muhammadsaadicup@gmail.com
+- 🌐 [Portfolio](https://muhammadsaadkhankor.github.io/)
+- 🔧 [GitHub](https://github.com/muhammadsaadkhankori)
+
+---
+
 ### ⚡ Fun Fact:
-- VR is not just tech, it's a **revolution**! 🥽 I'm obsessed with **immersive learning experiences** and how **virtual reality** can reshape education and beyond. 🌍🌈 Let’s explore the metaverse together!
+I believe VR isn’t just tech—it’s a revolution in learning! 🎓 Let’s build immersive experiences that truly **educate, engage, and empower**.
