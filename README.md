@@ -35,7 +35,7 @@
 - 👨‍🔬 [Google Scholar](https://scholar.google.com/citations?user=egchmHYAAAAJ&hl=en)
 - 💌 muhammadsaadicup@gmail.com
 - 🌐 [Portfolio](https://muhammadsaadkhankor.github.io/)
-- 🔧 [GitHub]([https://github.com/muhammadsaadkhankori](https://github.com/muhammadsaadkhankor)) 
+- 🔧 [GitHub](https://github.com/muhammadsaadkhankor) 
 
 ---
 
