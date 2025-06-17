@@ -5,11 +5,11 @@
 ---
 
 🧠 I specialize in:
-- 🔍 **Computer Vision (CV)**: Vision Transformers (ViT), YOLOv5, Siamese Networks, CNN-RNN models, Jetson Nano edge AI
-- 🗣️ **Natural Language Processing (NLP)**: LLMs, RAG pipelines, prompt engineering, multilingual reasoning (100+ languages)
-- 🧍‍♂️ **Multimodal AI Systems**: Full-body avatars, facial animation, lip-syncing, Mixamo + Three.js integration
-- 🪐 **Immersive & Metaverse Technologies**: Digital twins, interactive avatars, smart city simulations
-- ⚙️ **Deployment & MLOps**: Docker, REST APIs, optimization for real-time and edge environments
+- 🔍 **Computer Vision** – object detection, medical imaging, facial analysis, activity recognition
+- 🗣️ **Natural Language Processing** – language models, multilingual understanding, retrieval-augmented generation (RAG)
+- 🧍‍♂️ **Multimodal Interaction** – AI-powered avatars, gesture-based responses, visual expression systems
+- 🪐 **Immersive Technologies** – metaverse platforms, digital twins, real-time 3D learning environments
+- ⚙️ **AI Deployment & Integration** – scalable systems, edge AI, cloud deployment, full-stack prototyping
 
 ---
 
@@ -19,7 +19,7 @@
   - 🧍 Full-body avatars & facial animations (Mixamo + Three.js)
   - 🤖 Fine-tuned LLaMA-based teaching assistant
 - 🎭 **dTalk System**: AI-powered visual avatars with responsive gestures and animations.
-- 🔍 **Violence Detection @ TII**: Jetson Nano edge deployment with ViT/LSTM/GRU models.
+- 🔍 **Violence Detection @ TII**: Real-time surveillance system deployed on edge devices.
 
 ---
 
